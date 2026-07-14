@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Stylized digital ledger or document shield centered at (54,54) -->
+    <!-- Document background card -->
+    <path
+        android:pathData="M32,30 C32,27.8 33.8,26 36,26 L64,26 L76,38 L76,78 C76,80.2 74.2,82 72,82 L36,82 C33.8,82 32,80.2 32,78 Z"
+        android:fillColor="#FFFFFF" />
+    <!-- Gold folded corner of document -->
+    <path
+        android:pathData="M64,26 L64,38 L76,38 Z"
+        android:fillColor="#FBBF24" />
+    <!-- Three ledger lines on the document -->
+    <path
+        android:pathData="M40,46 L68,46 M40,54 L68,54 M40,62 L56,62"
+        android:strokeWidth="3.5"
+        android:strokeColor="#1E293B"
+        android:strokeLineCap="round" />
+    <!-- Successful checkmark badge representing tax clearance -->
+    <path
+        android:pathData="M64,68 A8,8 0 1 1 80,68 A8,8 0 1 1 64,68 Z"
+        android:fillColor="#10B981" />
+    <!-- Checkmark path -->
+    <path
+        android:pathData="M69,67 L71,69 L75,65"
+        android:strokeWidth="1.8"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>

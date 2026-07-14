@@ -1,0 +1,6 @@
+{
+  "name": "E-Knjigovođa",
+  "description": "Automatizovani alat za paušalce i male preduzetnike u Srbiji sa poreskim kalkulatorom, generatorom ugovora i AI poreskim savetnikom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
